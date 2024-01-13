@@ -30,7 +30,7 @@ padding:2vw;
        h1{ 
          
 border: 0.3vh solid #daa520;
-         font-size:7vw;
+         font-size:5vw;
          font-family:Georgia,serif;
          background-color:blanchedalmond;
          border-radius:1.5vh;
@@ -43,7 +43,7 @@ border: 0.3vh solid #daa520;
 border: 0.3vh solid #daa520;
 background-color:blanchedalmond;
 border-radius:1.5vh;
-font-size:4vw;
+font-size:3vw;
 padding:2vw;
        }
        
@@ -54,7 +54,7 @@ padding:2vw;
           font-family:Georgia,sans-serif ;}
  
  h2{border: 0.3vh solid #daa520;
-font-size:6vw;
+font-size:4vw;
    background-color:blanchedalmond;
          border-radius:1.5vh;
          text-align:center;
@@ -63,7 +63,7 @@ font-size:6vw;
  h3{border:20px;
          border-radius:1.5vh;
          text-align:center;
-font-size:5vw;
+font-size:3vw;
 padding:2vw;
          
  }
@@ -71,7 +71,7 @@ padding:2vw;
 border: 0.3vh solid #daa520;
 background-color:bisque;
          border-radius:1.5vh;
-font-size:4vw;
+font-size:3vw;
 padding:4vw;
  }
  
@@ -81,14 +81,14 @@ border: 0.3vh solid #daa520;
 background-color:blanchedalmond;
          border-radius:1.5vh;
          text-align:center;
-font-size:4vw;padding: 4vw;
+font-size:3vw;padding: 4vw;
  }
  #memb{
 border: 0.3vh solid #daa520;
 background-color:blanchedalmond;
          border-radius:1.5vh;
          text-align:align;
-font-size:4vw;padding:4vw;
+font-size:3vw;padding:4vw;
  }
  li{
    padding:0.15vw
@@ -100,7 +100,7 @@ border: 0.3vh solid #daa520;
 background-color:blanchedalmond;
          border-radius:1.5vh;
          text-align:left;
-font-size:4vw;padding:4vw;
+font-size:3vw;padding:4vw;
  }
  dt{
 border: 0.3vh solid #daa520;
@@ -108,7 +108,7 @@ border: 0.3vh solid #daa520;
 background-color:blanchedalmond;
          border-radius:1.5vh;
          text-align:left;
-font-size:4vw;padding:4vw;
+font-size:3vw;padding:4vw;
  }
  a:link{
    
@@ -140,6 +140,13 @@ background-color:bisque ;
 border-radius:5vh;
 
 
+}
+h4{
+border:20px;
+         border-radius:1.5vh;
+         text-align:center;
+font-size:2vw;
+padding:2vw;
 }
 
 
