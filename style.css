@@ -126,6 +126,7 @@ text-decoration:none;
 background-color:goldenrod ;
 border-radius:5vh;
 color:black;
+shadow:2px 2px;
 }
 
 .pagination a{
@@ -138,7 +139,7 @@ display:inline-block;
 
 background-color:bisque ;
 border-radius:5vh;
-
+shadow:2px 2px;
 
 }
 h4{
