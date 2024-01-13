@@ -150,4 +150,11 @@ font-size:2vw;
 padding:2vw;
 }
 
+a:visited {
+  color: khaki;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
 
