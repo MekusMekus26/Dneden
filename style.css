@@ -114,3 +114,31 @@ font-size:4vw;padding:4vw;
    
    color:darkgoldenrod;
  }
+
+.pagination{
+text-align:center;
+}
+
+.pagination a.active{
+ font-weight:Semi Bold;
+text-decoration:none;
+background-color:goldenrod ;
+border-radius:15px;
+color:black;
+}
+
+.pagination a{
+color:black;
+padding:5px 10px;
+display:inline-block;
+}
+
+.pagination a:hover:not(active){
+
+background-color:bisque ;
+border-radius:15px
+
+
+}
+
+
